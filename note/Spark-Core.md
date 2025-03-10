@@ -67,8 +67,6 @@ https://liuxiaocong.blog.csdn.net/article/details/123243056?spm=1001.2101.3001.6
 
 #### 运行架构
 Spark 框架的核心是一个计算引擎，整体来说，它采用了标准 master-slave 的结构。
-如下图所示，它展示了一个 Spark 执行时的基本结构。图形中的 Driver 表示 master，
-负责管理整个集群中的作业任务调度。图形中的 Executor 则是 slave，负责实际执行任务。
 #### 核心组件
 ##### Driver
 

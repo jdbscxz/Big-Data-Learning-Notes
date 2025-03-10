@@ -509,7 +509,7 @@ public class HiveUDTF extends GenericUDTF {
 
 * 并行执行
 
-# hive的数据倾斜
+# Hive的数据倾斜
 
 ## 原因
 
@@ -524,14 +524,5 @@ public class HiveUDTF extends GenericUDTF {
 2. 小表关联大表操作，需要先看能否使用子查询，再看能否使用Mapjoin
 3. Join操作注意关联字段不能出现大量的重复值或者空值
 4. Count(distinct id ) 去重统计要慎用，尽量通过其他方式替换
-
-
-
-
-
-
-
-
-
 
 

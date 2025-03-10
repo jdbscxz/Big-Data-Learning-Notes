@@ -169,8 +169,6 @@ hadoop fs -du -h [path]	#目录里面具体文件大小
 
 它的职责是**合并NameNode的edit logs到fsimage文件**
 
-
-
 # MapReduce
 
 MapReduce的思想核心是“分而治之”，适用于大量复杂的任务处理场景（大规模数据处理场景）。

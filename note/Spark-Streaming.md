@@ -1,4 +1,4 @@
-# ![image-20221013152620536](..\img\image-20221013152620536.png)SparkStreaming
+# SparkStreaming
 
 > 准实时,微批次
 
@@ -8,13 +8,13 @@ Spark Streaming 用于流式数据的处理。Spark Streaming 支持的数据输
 
 ## 整体架构图
 
-![image-20221013152607883](D:\java\img\image-20221013152607883.png)
+<img src="..\img\image-20221013152607883.png" alt="image-20221013152607883" style="zoom: 67%;" />
 
 
 
 ## Spark-Streaming 架构图
 
-![image-20221010190007411](../img/image-20221010190007411-16681543778311.png)
+<img src="../img/image-20221010190007411.png" alt="image-20221010190007411" style="zoom: 67%;" />
 
 
 

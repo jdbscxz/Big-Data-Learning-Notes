@@ -6,7 +6,7 @@
 
 ​	Hudi 不仅适合流工作负载，而且还允许创建高效的增量批处理管道。
 
-![hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965](../img/hudi-lake-overview-e39f80337517a0a1999d8eb5cd0ac965.png)
+![hudi](..\img\hudi.png)
 
 ## 1.2 发展历史
 
