@@ -135,8 +135,6 @@ COMMIT;-- 提交事务
 
 ROLLBACK;-- 回退事务
 
-
-
 set @@autocommit=0 -- 设置为手动提交
 
 COMMIT;-- 提交事务

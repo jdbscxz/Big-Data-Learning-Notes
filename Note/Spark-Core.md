@@ -132,8 +132,6 @@ Cluster 模式将用于监控和调度的 Driver 模块启动在 Yarn 集群资�
 ➢ Executor 进程启动后会向 Driver 反向注册，Executor 全部注册完成后 Driver 开始执行main 函数，
 ➢ 之后执行到 Action 算子时，触发一个 Job，并根据宽依赖开始划分 stage，每个 stage 生成对应的 TaskSet，之后将 task 分发到各个 Executor 上执行。
 
-
-
 ## Spark核心编程
 
 三大数据结构
